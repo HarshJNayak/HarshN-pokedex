@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project .
 
 ## Getting Started
 
-First, run the development server:
+Kindly run this in  git bash:
 
 ```bash
 npm run dev
